@@ -22,3 +22,10 @@ body {
     font-family: "MabryPro";
     src: url('Mabry\ Pro.otf');
 }
+
+.greyback {
+    background-color: grey;
+    margin: 0;
+    border-style: solid;
+    border-width: thin;
+}
